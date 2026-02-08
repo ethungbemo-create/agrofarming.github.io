@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AgroFarm | Online Buy & Sell</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            color: #333;
+        }
+        header {
+            background: #166534;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #166534;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .btn {
+            display: inline-block;
+            margin: 10px 10px 0 0;
+            padding: 12px 20px;
+            background: #22c55e;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .btn.email {
+            background: #2563eb;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 30px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>AgroFarming</h1>
+    <p>Online Buy & Sell of Agricultural Products</p>
+</header>
+
+<section>
+    <h2>About AgroFarming</h2>
+    <p>
+        AgroFarming is an online platform for buying and selling agricultural
+        products. We connect farmers, sellers, and buyers to ensure fair
+        pricing, quality products, and trusted service.
+    </p>
+</section>
+
+<section>
+    <h2>What We Offer</h2>
+    <ul>
+        <li>✔ Buy agricultural products online</li>
+        <li>✔ Sell farm produce directly</li>
+        <li>✔ Fair pricing and trusted deals</li>
+        <li>✔ Easy contact via WhatsApp & Email</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p><strong>Email:</strong> ethungbemo@email.com</p>
+    <p><strong>WhatsApp:</strong> +91-8974468407</p>
+
+    <!-- WhatsApp Button -->
+    <a class="btn" href="https://wa.me/918974468407" target="_blank">
+        Chat on WhatsApp
+    </a>
+
+    <!-- Email Button -->
+    <a class="btn email" href="mailto:ethungbemo@email@email.com">
+        Send Email
+    </a>
+</section>
+
+<footer>
+    © 2026 AgroFarm. All rights reserved.
+</footer>
+
+</body>
+</html>
